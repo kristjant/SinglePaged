@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="74d5d961-72a3-4b11-9b7f-fedc1c5f11bb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/css/main.css" afterPath="$PROJECT_DIR$/_includes/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-03-11-about.md" afterPath="$PROJECT_DIR$/_posts/2015-03-11-about.md" />
     </list>
     <ignored path="kristjanI.iws" />
@@ -58,11 +59,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-03-11-about.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2015-03-11-about.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2015-03-11-about.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -88,11 +89,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_includes/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="56" column="4" selection-start-line="56" selection-start-column="2" selection-end-line="56" selection-end-column="4" />
+            <state relative-caret-position="225">
+              <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -161,6 +162,7 @@
         <option value="$PROJECT_DIR$/_posts/2015-03-11-intro.md" />
         <option value="$PROJECT_DIR$/_posts/2015-03-12-why.md" />
         <option value="$PROJECT_DIR$/_posts/2015-03-11-about.md" />
+        <option value="$PROJECT_DIR$/_includes/css/main.css" />
       </list>
     </option>
   </component>
@@ -631,7 +633,7 @@
       <workItem from="1441740575790" duration="968000" />
       <workItem from="1446577063345" duration="337000" />
       <workItem from="1460207852350" duration="3000" />
-      <workItem from="1460207861731" duration="3614000" />
+      <workItem from="1460207861731" duration="3952000" />
     </task>
     <task id="LOCAL-00001" summary="demo">
       <created>1441741321407</created>
@@ -710,11 +712,18 @@
       <option name="project" value="LOCAL" />
       <updated>1460212237683</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="img">
+      <created>1460212305618</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1460212305618</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4922000" />
+    <option name="totallyTimeSpent" value="5260000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1023" extended-state="6" />
@@ -921,14 +930,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="56" column="4" selection-start-line="56" selection-start-column="2" selection-end-line="56" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-03-12-skills.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -956,7 +957,15 @@
     <entry file="file://$PROJECT_DIR$/_posts/2015-03-11-about.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
           <folding />
         </state>
       </provider>
