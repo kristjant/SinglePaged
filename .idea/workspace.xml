@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="74d5d961-72a3-4b11-9b7f-fedc1c5f11bb" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/css/main.css" afterPath="$PROJECT_DIR$/_includes/css/main.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_posts/2015-03-11-about.md" afterPath="$PROJECT_DIR$/_posts/2015-03-11-about.md" />
     </list>
     <ignored path="kristjanI.iws" />
@@ -32,19 +31,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
               <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding>
-                <marker date="1460209262000" expanded="true" signature="11:15" placeholder="..." />
-                <marker date="1460209262000" expanded="true" signature="22:29" placeholder="..." />
-                <marker date="1460209262000" expanded="true" signature="36:41" placeholder="..." />
-                <marker date="1460209262000" expanded="true" signature="89:94" placeholder="..." />
-                <marker date="1460209262000" expanded="true" signature="96:105" placeholder="..." />
-                <marker date="1460209262000" expanded="true" signature="107:117" placeholder="..." />
-                <marker date="1460209262000" expanded="true" signature="130:155" placeholder="..." />
-                <marker date="1460209262000" expanded="true" signature="166:170" placeholder="..." />
-                <marker date="1460209262000" expanded="true" signature="176:181" placeholder="..." />
-                <marker date="1460209262000" expanded="true" signature="192:200" placeholder="..." />
-                <marker date="1460209262000" expanded="true" signature="214:222" placeholder="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -59,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2015-03-11-about.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="2015-03-11-about.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2015-03-11-about.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+            <state relative-caret-position="135">
+              <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
               <folding />
             </state>
           </provider>
@@ -89,7 +76,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_includes/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="225">
@@ -161,8 +148,8 @@
         <option value="$PROJECT_DIR$/_includes/css/base.css" />
         <option value="$PROJECT_DIR$/_posts/2015-03-11-intro.md" />
         <option value="$PROJECT_DIR$/_posts/2015-03-12-why.md" />
-        <option value="$PROJECT_DIR$/_posts/2015-03-11-about.md" />
         <option value="$PROJECT_DIR$/_includes/css/main.css" />
+        <option value="$PROJECT_DIR$/_posts/2015-03-11-about.md" />
       </list>
     </option>
   </component>
@@ -633,7 +620,7 @@
       <workItem from="1441740575790" duration="968000" />
       <workItem from="1446577063345" duration="337000" />
       <workItem from="1460207852350" duration="3000" />
-      <workItem from="1460207861731" duration="3952000" />
+      <workItem from="1460207861731" duration="4009000" />
     </task>
     <task id="LOCAL-00001" summary="demo">
       <created>1441741321407</created>
@@ -719,11 +706,18 @@
       <option name="project" value="LOCAL" />
       <updated>1460212305618</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="img">
+      <created>1460212678583</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1460212678583</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5260000" />
+    <option name="totallyTimeSpent" value="5317000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1680" height="1023" extended-state="6" />
@@ -783,19 +777,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1460209262000" expanded="true" signature="11:15" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="22:29" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="36:41" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="89:94" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="96:105" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="107:117" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="130:155" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="166:170" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="176:181" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="192:200" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="214:222" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -811,19 +793,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1460209262000" expanded="true" signature="11:15" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="22:29" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="36:41" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="89:94" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="96:105" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="107:117" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="130:155" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="166:170" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="176:181" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="192:200" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="214:222" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -839,19 +809,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1460209262000" expanded="true" signature="11:15" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="22:29" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="36:41" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="89:94" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="96:105" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="107:117" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="130:155" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="166:170" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="176:181" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="192:200" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="214:222" placeholder="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -875,26 +833,6 @@
         <state relative-caret-position="-825">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-          <folding>
-            <marker date="1460209262000" expanded="true" signature="11:15" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="22:29" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="36:41" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="89:94" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="96:105" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="107:117" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="130:155" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="166:170" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="176:181" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="192:200" placeholder="..." />
-            <marker date="1460209262000" expanded="true" signature="214:222" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -938,14 +876,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135">
-          <caret line="10" column="41" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="41" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2015-03-13-details.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-349">
@@ -954,18 +884,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2015-03-11-about.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="25" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/css/main.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="55" column="21" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="24" column="0" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-135">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2015-03-11-about.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
           <folding />
         </state>
       </provider>
