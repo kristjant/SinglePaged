@@ -7,14 +7,14 @@ fa-icon: toggle-on
 
 # Work Experience
 
-## AS Nortal
-### Java Developer 2014 - present
+#  AS Nortal
+ Java Developer 2014 - present
 
 
 
 
-Projects at Nortal:
-### 2014 - 2015: EMPIS - (Estonian Employment Information System)
+# Projects at Nortal:
+# 2014 - 2015: EMPIS - (Estonian Employment Information System)
 - Spring and Aranea based web application development.
 - Oracle SQL and PL/SQL development.
 - Creating and consuming x-road services using J-Road.
